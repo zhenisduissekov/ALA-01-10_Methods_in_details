@@ -1,0 +1,11 @@
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/bin/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/bin/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.deps.json
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/bin/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.runtimeconfig.json
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/bin/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/bin/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.dll
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/bin/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.pdb
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/obj/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/obj/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/obj/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/obj/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.dll
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task1_IEEE754/Sys_Double_Str_IEEE754/Sys_Double_Str_IEEE754/obj/Debug/netcoreapp3.0/Sys_Double_Str_IEEE754.pdb

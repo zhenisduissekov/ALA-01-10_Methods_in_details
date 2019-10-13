@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{ECDD832E-15A2-4560-BF1E-9903341C7430}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GCD_Testing/FindGCDTests.cs">
+    <Files>
+      <File FileName="GCD_with_multiple_inputs/Program.cs" Line="7" Column="12" />
+      <File FileName="GCD_Testing/UnitTest1.cs" Line="31" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GCD_with_multiple_inputs" expanded="True">
+            <Node name="GCD_Testing" expanded="True">
+              <Node name="FindGCDTests.cs" selected="True" />
+            </Node>
+            <Node name="GCD_with_multiple_inputs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GCD_with_multiple_inputs" expanded="True" selected="True">
+            <Node name="GCD_Testing" expanded="True">
+              <Node name="FindGCDTests" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GCD__with__multiple__inputs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

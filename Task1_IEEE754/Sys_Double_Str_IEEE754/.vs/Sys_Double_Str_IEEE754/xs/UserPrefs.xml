@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2C45146B-5C1A-400E-994D-A1EEC8380C07}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sys__Double__Str__IEEE754 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sys_Double_Str_IEEE754/Program.cs">
+    <Files>
+      <File FileName="Sys_Double_Str_IEEE754/Program.cs" Line="91" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sys_Double_Str_IEEE754" expanded="True">
+            <Node name="Sys_Double_Str_IEEE754" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

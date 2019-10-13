@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/zhenis/.dotnet/store/|arch|/|tfm|",
+      "/Users/zhenis/.nuget/packages"
+    ]
+  }
+}

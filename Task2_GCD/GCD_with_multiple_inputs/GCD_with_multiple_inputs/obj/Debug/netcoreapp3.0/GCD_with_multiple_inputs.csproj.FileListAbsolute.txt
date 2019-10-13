@@ -1,0 +1,11 @@
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/bin/Debug/netcoreapp3.0/GCD_with_multiple_inputs
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/bin/Debug/netcoreapp3.0/GCD_with_multiple_inputs.deps.json
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/bin/Debug/netcoreapp3.0/GCD_with_multiple_inputs.runtimeconfig.json
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/bin/Debug/netcoreapp3.0/GCD_with_multiple_inputs.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/bin/Debug/netcoreapp3.0/GCD_with_multiple_inputs.dll
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/bin/Debug/netcoreapp3.0/GCD_with_multiple_inputs.pdb
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/obj/Debug/netcoreapp3.0/GCD_with_multiple_inputs.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/obj/Debug/netcoreapp3.0/GCD_with_multiple_inputs.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/obj/Debug/netcoreapp3.0/GCD_with_multiple_inputs.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/obj/Debug/netcoreapp3.0/GCD_with_multiple_inputs.dll
+/Users/zhenis/Projects/ALA-01-10_Methods_in_details/Task2_GCD/GCD_with_multiple_inputs/GCD_with_multiple_inputs/obj/Debug/netcoreapp3.0/GCD_with_multiple_inputs.pdb
